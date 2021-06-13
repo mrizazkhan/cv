@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: #deedf0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    padding: 10px;
+}
+h1, .txt-design{
+    font-family: 'Sacramento', cursive;
+}
+.first-container p{
+    font-size: 12px;
+
+}
+.first-container{
+    width: 200px;
+    height: 100px;
+    margin: 100px auto 10px auto;
+}
+.top-cloud{
+    position: absolute;
+    top: 45px;
+    right: 350px;
+}
+.bottam-cloud{
+    position: absolute;
+    top: 220px;
+    left: 320px;
+}
+.pro-picture{
+    width: 150px;
+}
+.skill-picture{
+    width: 150px;
+}
+p{
+    font-size: 14px;
+}
+.bottom-container a, .contact-me a{
+    text-decoration: none;
+    color: rgb(4, 0, 255);
+    padding: 2px;
+    margin: 6px;
+}
+.bottom-container a:hover, .contact-me a:hover{
+    background-color: rgb(253, 0, 0);
+    color: white;
+}
